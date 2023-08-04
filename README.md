@@ -1,3 +1,5 @@
-committed :tada:
-modified  :gift:
-staged :balloon:
+**ESTADOS DE GIT*
+
++ ***Committed*** :tada:
++ ***Modified***  :gift:
++ ***Staged*** :balloon:
