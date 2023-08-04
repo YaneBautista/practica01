@@ -1,1 +1,3 @@
-# practica01
+committed :tada:
+modified  :gift:
+staged :balloon:
